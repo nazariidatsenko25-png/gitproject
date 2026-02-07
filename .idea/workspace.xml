@@ -57,7 +57,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "feature",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1770469997372</updated>
       <workItem from="1770469998429" duration="2189000" />
-      <workItem from="1770472197065" duration="1038000" />
+      <workItem from="1770472197065" duration="1414000" />
     </task>
     <task id="LOCAL-00001" summary="new directory">
       <option name="closed" value="true" />
@@ -103,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770472318897</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix">
+      <option name="closed" value="true" />
+      <created>1770473252092</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770473252092</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,9 +173,9 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="new directory" />
     <MESSAGE value="update in nazarii" />
-    <MESSAGE value="fix" />
     <MESSAGE value="fix2" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix2" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
