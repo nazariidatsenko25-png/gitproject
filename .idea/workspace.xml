@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="835c6fed-d181-4543-ad0d-fbff53a20825" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="835c6fed-d181-4543-ad0d-fbff53a20825" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +23,7 @@
     </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="elina" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,11 +52,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "feature",
+    "git-widget-placeholder": "develop",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -70,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1770469997372</updated>
       <workItem from="1770469998429" duration="2189000" />
+      <workItem from="1770472197065" duration="1038000" />
     </task>
     <task id="LOCAL-00001" summary="new directory">
       <option name="closed" value="true" />
@@ -95,13 +95,13 @@
       <option name="project" value="LOCAL" />
       <updated>1770471737594</updated>
     </task>
-    <task id="LOCAL-00004" summary="update">
+    <task id="LOCAL-00004" summary="fix2">
       <option name="closed" value="true" />
-      <created>1770473054064</created>
+      <created>1770472318897</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1770473054064</updated>
+      <updated>1770472318897</updated>
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
@@ -112,6 +112,32 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/develop" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -140,7 +166,8 @@
     <MESSAGE value="new directory" />
     <MESSAGE value="update in nazarii" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="fix2" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
