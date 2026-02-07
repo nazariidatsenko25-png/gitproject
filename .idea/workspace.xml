@@ -1,49 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1204316-2c60-4486-a50e-ea20a1b77a2a" name="Changes" comment="" />
+    <list default="true" id="835c6fed-d181-4543-ad0d-fbff53a20825" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true">
-    <option name="groupingKeys">
-      <option value="directory" />
-      <option value="repository" />
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
     "state": "OPEN",
-    "assignee": "elyatlc"
+    "assignee": "nazariidatsenko25-png"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/nazariidatsenko25-png/gitproject.git",
-    "accountId": "c66a10c6-2ea8-4b8d-989b-ce1f9eea8c68"
+    "accountId": "11a323ad-f552-45dd-8d05-d392ee4e8eb2"
   }
 }]]></component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="39LKXkxdmirecV9Dghj8UBdS5e9" />
+  <component name="ProjectId" id="39LKdQqd8WnRmRNliOEpVaZijVd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,42 +56,42 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "elina",
+    "git-widget-placeholder": "develop",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f1204316-2c60-4486-a50e-ea20a1b77a2a" name="Changes" comment="" />
-      <created>1770469952308</created>
+      <changelist id="835c6fed-d181-4543-ad0d-fbff53a20825" name="Changes" comment="" />
+      <created>1770469997372</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1770469952308</updated>
-      <workItem from="1770469953677" duration="2190000" />
+      <updated>1770469997372</updated>
+      <workItem from="1770469998429" duration="2189000" />
     </task>
     <task id="LOCAL-00001" summary="new directory">
       <option name="closed" value="true" />
-      <created>1770470865125</created>
+      <created>1770471013136</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1770470865125</updated>
+      <updated>1770471013136</updated>
     </task>
-    <task id="LOCAL-00002" summary="file">
+    <task id="LOCAL-00002" summary="update in nazarii">
       <option name="closed" value="true" />
-      <created>1770471352944</created>
+      <created>1770471561748</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1770471352944</updated>
+      <updated>1770471561748</updated>
     </task>
-    <task id="LOCAL-00003" summary="my file">
+    <task id="LOCAL-00003" summary="fix">
       <option name="closed" value="true" />
-      <created>1770471509748</created>
+      <created>1770471737594</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1770471509748</updated>
+      <updated>1770471737594</updated>
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
@@ -110,7 +112,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="develop" />
+                        <option value="origin/develop" />
                       </list>
                     </value>
                   </entry>
@@ -124,11 +126,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="directory" />
+    <MESSAGE value="Initial commit" />
     <MESSAGE value="new directory" />
-    <MESSAGE value="file" />
-    <MESSAGE value="my file" />
-    <option name="LAST_COMMIT_MESSAGE" value="my file" />
+    <MESSAGE value="update in nazarii" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
